@@ -1,4 +1,4 @@
-cc的代码分析.
+cc的代码分析.（更偏向源码解释，而非转译运行）
 
 scripts:
     scripts\build.mjs 用于构建最后的cc程序
